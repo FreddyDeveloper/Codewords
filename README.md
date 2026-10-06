@@ -61,11 +61,19 @@ Internet access is only required for the initial setup and for network-related c
 
 Codewords can use other models available in Ollama as well.
 
+## 🚀 Download
+
+Download the latest version from the [Releases](../../releases/latest) page.
+
+The release includes the compiled Windows application `Codewords.exe`.
+
+> **Codewords v5.0 is distributed as proprietary software. The source code is not publicly distributed.**
+
 ## 🚀 Getting started
 
-1. Download the latest `Codewords.exe` from **Releases**.
-2. Place it somewhere on your computer.
-3. Launch Codewords.
+1. Download the latest `Codewords-v5.0.zip` from **Releases**.
+2. Extract the ZIP file.
+3. Launch `Codewords.exe`.
 4. Complete the first-time Ollama/model setup.
 5. Open your project folder.
 6. Make sure the AI status shows `● local`.
@@ -115,7 +123,11 @@ The User Guide covers:
 
 ## 📄 License
 
-Codewords is released under the MIT License.
+Codewords v5.0 is proprietary software.
+
+All rights reserved. The source code is not publicly distributed.
+
+See the [LICENSE](LICENSE) file for the complete license terms.
 
 ## 👨‍💻 Author
 
