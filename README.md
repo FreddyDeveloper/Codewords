@@ -8,6 +8,10 @@ Write code, explore your project, search and edit files, run commands and tests,
 
 Codewords runs its AI locally using [Ollama](https://ollama.com/), so your source code stays on your machine. No cloud account, API key, or monthly subscription is required.
 
+<p align="center">
+  <img src="screenshoot.png" alt="Codewords screenshot">
+</p>
+
 ## ✨ Features
 
 - 🤖 **Local AI coding agent** — Ask the agent to understand, modify, debug, and improve your project.
